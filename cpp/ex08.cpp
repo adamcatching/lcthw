@@ -20,7 +20,7 @@ int main() {
 
     ostringstream msg;
 
-    //msg << "Test numbers: " << a << b << c << d << e << f << endl;
+    msg << "Test numbers: " << a << b << c << d << e << f << g << h << endl;
     // CHALLENGE 2 HERE
 
     msg << "From number " << from_number << endl;
